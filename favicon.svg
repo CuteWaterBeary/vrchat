@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="67.73333mm"
+   height="67.73333mm"
+   viewBox="0 0 67.73333 67.73333"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="favicon2.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.2253507"
+     inkscape:cx="120.65514"
+     inkscape:cy="199.29443"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="137.28172"
+       y="240.86092"
+       width="231.87357"
+       height="397.46545"
+       id="rect6921" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-75.85508,-39.948761)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:2.78601;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect26159"
+       width="67.73333"
+       height="67.73333"
+       x="75.85508"
+       y="39.948761" />
+    <path
+       style="fill:#19181b;fill-opacity:1;stroke:#0069cd;stroke-width:2.33498;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 81.750747,47.493848 c 5.935448,-1.861035 51.296213,-2.151142 55.482053,0.196722 4.18585,2.347864 4.17798,36.552258 1.58112,39.298777 -2.59687,2.746519 -3.80479,-0.565279 -6.29723,1.91526 -2.49244,2.480538 1.35633,12.605283 -2.422,13.597673 -3.77832,0.99239 -11.06067,-13.539254 -16.01338,-13.455189 -4.9527,0.08407 -28.602928,1.431287 -32.087733,-1.423878 -3.484804,-2.855164 -6.178283,-38.26833 -0.24283,-40.129365 z"
+       id="path1065"
+       sodipodi:nodetypes="zzzzzzzz" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.22501601,0,0,0.21853227,56.406123,-5.8274949)"
+       id="text6919"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:173.333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect6921);fill:#e069e6;fill-opacity:1"><tspan
+         x="137.28125"
+         y="392.5277"
+         id="tspan26507">VR</tspan></text>
+  </g>
+</svg>
