@@ -1,32 +1,24 @@
 import { baseLayerLuminance, StandardLuminance } from 'https://unpkg.com/@fluentui/web-components';
 
-const LISTING_URL = "{{ listingInfo.Url }}";
+const LISTING_URL = "https://cutewaterbeary.github.io/vrchat2/index.json";
 
 const PACKAGES = {
-{{~ for package in packages ~}}
-  "{{ package.Name }}": {
-    name: "{{ package.Name }}",
-    displayName: "{{ if package.DisplayName; package.DisplayName; end; }}",
-    description: "{{ if package.Description; package.Description; end; }}",
-    version: "{{ package.Version }}",
+  "cute.waterbeary.markdownviewer": {
+    name: "cute.waterbeary.markdownviewer",
+    displayName: "Unity Markdown Viewer",
+    description: "Editor inspector for markdown files",
+    version: "2.0.0",
     author: {
-      name: "{{ if package.Author.Name; package.Author.Name; end; }}",
-      url: "{{ if package.Author.Url; package.Author.Url; end; }}",
+      name: "CuteWaterBeary",
+      url: "https://discord.gg/RjCae4XZCX",
     },
     dependencies: {
-      {{~ for dependency in package.Dependencies ~}}
-        "{{ dependency.Name }}": "{{ dependency.Version }}",
-      {{~ end ~}}
     },
     keywords: [
-      {{~ for keyword in package.Keywords ~}}
-        "{{ keyword }}",
-      {{~ end ~}}
     ],
-    license: "{{ package.License }}",
-    licensesUrl: "{{ package.LicensesUrl }}",
+    license: "",
+    licensesUrl: "",
   },
-{{~ end ~}}
 };
 
 const setTheme = () => {
