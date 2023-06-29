@@ -3,11 +3,11 @@ import { baseLayerLuminance, StandardLuminance } from 'https://unpkg.com/@fluent
 const LISTING_URL = "https://cutewaterbeary.github.io/vrchat2/index.json";
 
 const PACKAGES = {
-  "cute.waterbeary.markdownviewer": {
-    name: "cute.waterbeary.markdownviewer",
-    displayName: "Unity Markdown Viewer",
-    description: "Editor inspector for markdown files",
-    version: "3.0.0",
+  "cute.waterbeary.packages": {
+    name: "cute.waterbeary.packages",
+    displayName: "Name placeholder",
+    description: "Description Placeholder",
+    version: "1.0.0",
     author: {
       name: "CuteWaterBeary",
       url: "https://discord.gg/RjCae4XZCX",
