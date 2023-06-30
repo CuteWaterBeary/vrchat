@@ -38,6 +38,40 @@
                 }
             }
         },
+        "cute.waterbeary.hierarchy2": {
+            "versions": {
+                "2.0.0": {
+                    "name": "cute.waterbeary.hierarchy2",
+                    "displayName": "hierarchy2",
+                    "version": "2.0.0",
+                    "unity": "2019.4",
+                    "description": "Editorhierarchy2",
+                    "vpmDependencies": {},
+                    "author": {
+                        "name": "CuteWaterBeary",
+                        "email": "original.vr.creator@gmail.com",
+                        "url": "https://discord.gg/RjCae4XZCX"
+                    },
+                    "zipSHA256": "72f1acb63a8d32836ee5b68b9919cdbe7fecc7918ab1aa54c9be61fcefd9a71",
+                    "url": "https://github.com/CuteWaterBeary/Hierarchy2/releases/download/vpm_type2_release1/cute.waterbeary.hierarchy2.zip"
+                },
+                "1.0.0": {
+                    "name": "cute.waterbeary.hierarchy2",
+                    "displayName": "hierarchy2",
+                    "version": "1.0.0",
+                    "unity": "2019.4",
+                    "description": "Editor hierarchy2",
+                    "vpmDependencies": {},
+                    "author": {
+                        "name": "CuteWaterBeary",
+                        "email": "original.vr.creator@gmail.com",
+                        "url": "https://discord.gg/RjCae4XZCX"
+                    },
+                    "zipSHA256": "72f1acb63a8d32836ee5b68b9919cdbe7fecc7918ab1aa54c9be61fcefd9a71",
+                    "url": "https://github.com/CuteWaterBeary/Hierarchy2/releases/download/vpm_type1_release1/cute.waterbeary.hierarchy2.zip"
+                }
+            }
+        },
         "cute.waterbeary.something": {
             "versions": {
                 "2.0.0": {
