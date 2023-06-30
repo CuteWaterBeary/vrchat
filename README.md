@@ -1,8 +1,7 @@
 # CuteWaterBeary's VRChat Creator Companion Packages
 
 
-[![VCC](https://user-images.githubusercontent.com/103973703/248541371-0e67510c-a526-4273-9dc3-da8f912e692a.png)](vcc://vpm/addRepo?url=https://cutewaterbeary.github.io/vrchat2/index.json)
+[![VCC](https://cutewaterbeary.github.io/vrchat/banner.png)](https://cutewaterbeary.github.io/vrchat/)
 
 
-
-vcc://vpm/addRepo?url=https://cutewaterbeary.github.io/vrchat2/index.json
+[Add all packages to your CreatorCompanion!](https://cutewaterbeary.github.io/vrchat/)
