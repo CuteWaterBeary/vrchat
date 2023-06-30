@@ -1,7 +1,7 @@
 {
     "name": "CuteWaterBeary's Creator Companion Packages",
     "author": "CuteWaterBeary",
-    "url": "https://cutewaterbeary.github.io/vrchat2/index.json",
+    "url": "https://cutewaterbeary.github.io/vrchat/index.json",
     "id": "cute.water.beary",
     "packages": {
         "cute.waterbeary.markdownviewer": {
