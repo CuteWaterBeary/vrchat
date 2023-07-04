@@ -79,7 +79,7 @@
                     "displayName": "V2V",
                     "version": "3.0.1",
                     "unity": "2019.4",
-                    "description": "V2V makes avatar creation more accessible to creators by automating the technical aspects of avatar creation, allowing you to focus on the creative aspects.",
+                    "description": "V2V makes avatar creation more accessible to creators using VRoid by automating the technical aspects of avatar creation, allowing them to focus on the creative aspects.",
                     "vpmDependencies": {
                         "com.vrchat.avatars": "3.2.1"
                       },
@@ -90,6 +90,23 @@
                     },
                     "zipSHA256": "72f1acb63a8d32836ee5b68b9919cdbe7fecc7918ab1aa54c9be61fcefd9a71",
                     "url": "https://github.com/CuteWaterBeary/assets/releases/download/deux1/cute.waterbeary.v2v-3.0.1.zip"
+                },
+                "3.0.2": {
+                    "name": "cute.waterbeary.v2v",
+                    "displayName": "V2V",
+                    "version": "3.0.2",
+                    "unity": "2019.4",
+                    "description": "V2V makes avatar creation more accessible to creators using VRoid by automating the technical aspects of avatar creation, allowing them to focus on the creative aspects.",
+                    "vpmDependencies": {
+                        "com.vrchat.avatars": "3.2.1"
+                      },
+                    "author": {
+                        "name": "CuteWaterBeary",
+                        "email": "original.vr.creator@gmail.com",
+                        "url": "https://discord.gg/RjCae4XZCX"
+                    },
+                    "zipSHA256": "72f1acb63a8d32836ee5b68b9919cdbe7fecc7918ab1aa54c9be61fcefd9a71",
+                    "url": "https://github.com/CuteWaterBeary/assets/releases/download/deux1/cute.waterbeary.v2v-3.0.2.zip"
                 }
             }
         }
