@@ -9,7 +9,7 @@
                 "3.0.3": {
                     "name": "cute.waterbeary.v2v",
                     "displayName": "V2V",
-                    "version": "3.0.2",
+                    "version": "3.0.3",
                     "unity": "2019.4",
                     "description": "V2V makes avatar creation more accessible to creators using VRoid by automating the technical aspects of avatar creation, allowing them to focus on the creative aspects.",
                     "vpmDependencies": {
