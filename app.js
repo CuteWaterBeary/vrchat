@@ -80,7 +80,7 @@ const setTheme = () => {
   });
 
   const vccAddRepoButton = document.getElementById('vccAddRepoButton');
-  vccAddRepoButton.addEventListener('click', () => window.location.assign(`vcc://vpm/addRepo?url=${encodeURIComponent(LISTING_URL)}`));
+  vccAddRepoButton.addEventListener('click', () => window.location.assign(`vcc://vpm/addRepo?url=${encodeURIComponent(document.getElementById('vccUrlField').value)}`));
 
   const vccUrlFieldCopy = document.getElementById('vccUrlFieldCopy');
   vccUrlFieldCopy.addEventListener('click', () => {
