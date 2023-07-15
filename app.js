@@ -1,6 +1,6 @@
 import { baseLayerLuminance, StandardLuminance } from 'https://unpkg.com/@fluentui/web-components';
 
-const LISTING_URL = "https://cutewaterbeary.github.io/vrchat/index.json";
+const LISTING_URL = "https://bit.ly/vccpak";
 
 const PACKAGES = {
   "cute.waterbeary.packages": {
